@@ -2,8 +2,11 @@
 
 kubernetes 相关 images 同步
 
-# 2018.1.2017
+# 2018.07.30
+* 更新版本 v1.11.1
+* 新增 coredns-amd64:v1.1.3
 
+# 2018.01.17
 * 新增监控组件heapster v1.5.0
 	
 	包括两个目录:heapster-amd64和addon-resizer(addon-resizer:1.8.1)

@@ -1,5 +1,2 @@
-FROM quay.io/coreos/flannel:v0.9.1-amd64
-MAINTAINER Mosaicwang <mosaicwang@gmail.com>
-
-
-
+FROM gcr.io/google_containers/flannel-amd64:0.5.5
+MAINTAINER kingslam <kings@tinragon.com>
